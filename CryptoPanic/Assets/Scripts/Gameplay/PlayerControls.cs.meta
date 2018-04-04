@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e34d68bbb2a47104b996110f3dd812d0
+timeCreated: 1477375199
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - p1CrosshairPrefab: {fileID: 1000011214152306, guid: 9d42efbd953c40c4599c45c7a2b1cf64,
+      type: 2}
+  - p2CrosshairPrefab: {fileID: 1000013672774656, guid: 5b03f0b0c38329c4c8c64093f7e9e984,
+      type: 2}
+  - emptyClipSound: {fileID: 8300000, guid: 876f91d27ce5116499e21235d3e0a61c, type: 3}
+  - reloadSound: {fileID: 8300000, guid: 891302083bd323745af55dd0bcb34bec, type: 3}
+  - shootSound: {fileID: 8300000, guid: 8fad5d7619df3374db0ff5dde83658a7, type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
